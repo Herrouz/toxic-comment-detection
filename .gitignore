@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Local data
+data/jigsaw-toxic-comment-classification-challenge/
+
+# Generated model artifacts
+models/*.joblib
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+.vscode/
