@@ -37,7 +37,7 @@ toxic-comment-detection/
 ├── .gitignore
 ├── toxicity_sklearn.ipynb
 ├── data_loader.py
-├── PRESENTATION_NOTES.md
+├
 │
 ├── data/
 │   └── README.md
@@ -47,7 +47,7 @@ toxic-comment-detection/
 │
 └── report/
     ├── Toxic_Comment_Detection_Report.pdf
-    └── Toxic_Comment_Detection_Report.docx
+    
 ```
 
 ### Main entry point
@@ -66,7 +66,7 @@ Run the notebook from top to bottom to reproduce the training and evaluation.
 - `data_loader.py` - locates `train.csv`, loads the dataset, checks the required columns, and separates comments from labels.
 - `data/README.md` - explains how to obtain and place the dataset.
 - `report/` - written project report.
-- `PRESENTATION_NOTES.md` - suggested structure for the oral presentation.
+
 
 ## Dataset
 
