@@ -37,7 +37,7 @@ toxic-comment-detection/
 ├── .gitignore
 ├── toxicity_sklearn.ipynb
 ├── data_loader.py
-├
+│
 │
 ├── data/
 │   └── README.md
